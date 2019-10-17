@@ -2,3 +2,4 @@ Arthur Samuel definition: the field of study that gives computers to learn witho
 Tom Mitchell definition: "A computer program is said to learn from experience E with respect to some class of tasks T
 and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E."
 n supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
+Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.
