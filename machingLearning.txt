@@ -1,3 +1,4 @@
 Arthur Samuel definition: the field of study that gives computers to learn without being explicitly programmed
 Tom Mitchell definition: "A computer program is said to learn from experience E with respect to some class of tasks T
 and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E."
+n supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
